@@ -1,0 +1,20 @@
+*{
+  font-family: san-serif;
+  
+}
+body {
+  color: #376d7d; background: #f9f9f9;
+  width: 600px;
+  margin: auto;
+  
+}
+
+ul {
+  list-style: nome; display: grid; 
+  grid-template-columns: repeat(4, 1fr);
+  
+}
+
+.project-links{
+  border: 1px solid #999; border-radius: 8px; 
+}
